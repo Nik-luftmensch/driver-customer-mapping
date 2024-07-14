@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 ### Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Nik-luftmensch/driver-customer-mapping
    cd driver-customer-mapping
    ```
 
@@ -49,6 +49,8 @@ To run the project:
 ### Output
 The main script will generate an interactive map (`map_advanced.html`) showing the customer's location, nearest driver, and route between them.
 
+You can view the generated map here: [View Map](./map_advanced.html)
+
 ## References
 - [Uber Engineering Blog on H3](https://eng.uber.com/h3/)
 - [H3 Documentation](https://h3geo.org/docs/)
@@ -58,5 +60,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-```
-
