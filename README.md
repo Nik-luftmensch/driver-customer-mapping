@@ -49,7 +49,7 @@ To run the project:
 ### Output
 The main script will generate an interactive map (`map_advanced.html`) showing the customer's location, nearest driver, and route between them.
 
-You can view the generated map here: [View Map](./map_advanced.html)
+You can view the generated map here: [View Map HTML](./map_advanced.html) or [View Map Img](./Output_Map.png)
 
 ## References
 - [Uber Engineering Blog on H3](https://eng.uber.com/h3/)
