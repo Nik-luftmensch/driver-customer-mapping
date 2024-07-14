@@ -50,9 +50,8 @@ To run the project:
 The main script will generate an interactive map (`map_advanced.html`) showing the customer's location, nearest driver, and route between them.
 
 ## References
-- [H3 Spatial Indexing](https://eng.uber.com/h3/)
 - [Uber Engineering Blog on H3](https://eng.uber.com/h3/)
-- [H3 Documentation](https://h3geo.org/docs/introduction/overview)
+- [H3 Documentation](https://h3geo.org/docs/)
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request.
